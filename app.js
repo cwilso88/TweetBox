@@ -1,0 +1,1 @@
+prompt("Thinking happy thoughts?");
